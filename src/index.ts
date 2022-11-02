@@ -1,7 +1,7 @@
-import data from "./data";
+import data from "./data.json";
 
 export default {
-  async fetch(request: Request): Promise<Response> {
+  async fetch(): Promise<Response> {
     const headers = {
       'Access-Control-Allow-Origin': '*',
       'Content-type': 'application/json',

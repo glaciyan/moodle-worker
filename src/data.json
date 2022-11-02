@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Mensa",
+    "meta": {
+      "link": "https://seezeit.com/essen/speiseplaene/mensa-htwg/"
+    }
+  },
+  {
+    "name": "Stochastik ([AW]IN) B.Staehle",
+    "meta": {
+      "moodleId": 2711
+    }
+  },
+  {
+    "name": "Programmiertechnik 2 (AIN) Bittel",
+    "meta": {
+      "moodleId": 4361
+    }
+  },
+  {
+    "name": "Mathematik 2 (Axthelm)",
+    "meta": {
+      "moodleId": 5963
+    }
+  },
+  {
+    "name": "Vorbereitende Blockveranstaltung",
+    "meta": {
+      "moodleId": 3389
+    }
+  },
+  {
+    "name": "Vorbereitende Blockveranstaltung Constanze",
+    "meta": {
+      "moodleId": 4679
+    }
+  },
+  {
+    "name": "Rechnerarchitektur (AIN) Blaich",
+    "meta": {
+      "moodleId": 4948
+    }
+  },
+  {
+    "name": "Systemprogrammierung (AIN) Drachenfels",
+    "meta": {
+      "moodleId": 4408
+    }
+  },
+  {
+    "name": "Erfolgreich lernen",
+    "meta": {
+      "moodleId": 3118
+    }
+  }
+]
