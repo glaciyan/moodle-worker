@@ -2,37 +2,43 @@
   {
     "name": "Mensa",
     "meta": {
-      "link": "https://seezeit.com/essen/speiseplaene/mensa-htwg"
+      "link": "https://seezeit.com/essen/speiseplaene/mensa-htwg",
+      "tags": ["essen", "mensa", "seezeit"]
     }
   },
   {
     "name": "Stochastik ([AW]IN) B.Staehle",
     "meta": {
-      "moodleId": 2711
+      "moodleId": 2711,
+      "tags": ["stock"]
     }
   },
   {
     "name": "Programmiertechnik 2 Homepage",
     "meta": {
-      "link": "http://www-home.htwg-konstanz.de/~bittel/ain_fprog.html"
+      "link": "http://www-home.htwg-konstanz.de/~bittel/ain_fprog.html",
+      "tags": ["prog2", "home"]
     }
   },
   {
     "name": "Programmiertechnik 2 (AIN) Bittel",
     "meta": {
-      "moodleId": 4361
+      "moodleId": 4361,
+      "tags": ["prog2", "moodle"]
     }
   },
   {
     "name": "Mathematik 2 (Axthelm)",
     "meta": {
-      "moodleId": 5963
+      "moodleId": 5963,
+      "tags": ["mathe2"]
     }
   },
   {
     "name": "Vorbereitende Blockveranstaltung",
     "meta": {
-      "moodleId": 3389
+      "moodleId": 3389,
+      "tags": ["pss"]
     }
   },
   {
@@ -44,19 +50,22 @@
   {
     "name": "Rechnerarchitektur (AIN) Blaich",
     "meta": {
-      "moodleId": 4948
+      "moodleId": 4948,
+      "tags": ["arch", "rearch", "blaich", "moodle"]
     }
   },
   {
     "name": "Systemprogrammierung Homepage",
     "meta": {
-      "link": "http://www-home.htwg-konstanz.de/~drachen/sypr/sypr.html"
+      "link": "http://www-home.htwg-konstanz.de/~drachen/sypr/sypr.html",
+      "tags": ["sysprog", "drachen", "home"]
     }
   },
   {
     "name": "Systemprogrammierung (AIN) Drachenfels",
     "meta": {
-      "moodleId": 4408
+      "moodleId": 4408,
+      "tags": ["sysprog", "drachen", "moodle"]
     }
   },
   {
@@ -68,19 +77,22 @@
   {
     "name": "Programmiertechnik 1 Homepage",
     "meta": {
-      "link": "http://www-home.htwg-konstanz.de/~drachen/prog1/prog1.html"
+      "link": "http://www-home.htwg-konstanz.de/~drachen/prog1/prog1.html",
+      "tags": ["prog1", "home", "drachen"]
     }
   },
   {
     "name": "Programmiertechnik 1 (AIN) Drachenfels",
     "meta": {
-      "moodleId": 4405
+      "moodleId": 4405,
+      "tags": ["prog1", "drachen", "moodle"]
     }
   },
   {
     "name": "Softwaremodellierung (AIN) Eck",
     "meta": {
-      "moodleId": 298
+      "moodleId": 298,
+      "tags": ["somo"]
     }
   },
   {
