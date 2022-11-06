@@ -12,6 +12,12 @@
     }
   },
   {
+    "name": "Programmiertechnik 2 Homepage",
+    "meta": {
+      "link": "http://www-home.htwg-konstanz.de/~bittel/ain_fprog.html"
+    }
+  },
+  {
     "name": "Programmiertechnik 2 (AIN) Bittel",
     "meta": {
       "moodleId": 4361
@@ -42,6 +48,12 @@
     }
   },
   {
+    "name": "Systemprogrammierung Homepage",
+    "meta": {
+      "link": "http://www-home.htwg-konstanz.de/~drachen/sypr/sypr.html"
+    }
+  },
+  {
     "name": "Systemprogrammierung (AIN) Drachenfels",
     "meta": {
       "moodleId": 4408
@@ -51,6 +63,12 @@
     "name": "Erfolgreich lernen",
     "meta": {
       "moodleId": 3118
+    }
+  },
+  {
+    "name": "Programmiertechnik 1 Homepage",
+    "meta": {
+      "link": "http://www-home.htwg-konstanz.de/~drachen/prog1/prog1.html"
     }
   },
   {
