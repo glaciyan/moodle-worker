@@ -58,14 +58,14 @@
     "name": "Systemprogrammierung Homepage",
     "meta": {
       "link": "http://www-home.htwg-konstanz.de/~drachen/sypr/sypr.html",
-      "tags": ["sysprog", "drachen", "home"]
+      "tags": ["sypro", "sysprog", "drachen", "home"]
     }
   },
   {
     "name": "Systemprogrammierung (AIN) Drachenfels",
     "meta": {
       "moodleId": 4408,
-      "tags": ["sysprog", "drachen", "moodle"]
+      "tags": ["sypro", "sysprog", "drachen", "moodle"]
     }
   },
   {
