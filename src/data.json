@@ -52,5 +52,23 @@
     "meta": {
       "moodleId": 3118
     }
+  },
+  {
+    "name": "Programmiertechnik 1 (AIN) Drachenfels",
+    "meta": {
+      "moodleId": 4405
+    }
+  },
+  {
+    "name": "Softwaremodellierung (AIN) Eck",
+    "meta": {
+      "moodleId": 298
+    }
+  },
+  {
+    "name": "Mathematik 1, SoSe (Axthelm)",
+    "meta": {
+      "moodleId": 5952
+    }
   }
 ]
