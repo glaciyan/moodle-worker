@@ -98,7 +98,8 @@
   {
     "name": "Mathematik 1, SoSe (Axthelm)",
     "meta": {
-      "moodleId": 5952
+      "moodleId": 5952,
+      "tags": ["mathe1"]
     }
   }
 ]
