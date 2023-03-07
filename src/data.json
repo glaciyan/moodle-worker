@@ -7,6 +7,55 @@
     }
   },
   {
+    "name": "Theoretische Informatik",
+    "meta": {
+      "moodleId": 2274,
+      "tags": ["teinf"]
+    }
+  },
+  {
+    "name": "AIN3 Datenbanksysteme",
+    "meta": {
+      "moodleId": 6500,
+      "tags": ["dsys", "database"]
+    }
+  },
+  {
+    "name": "AIN3 Signale, Systeme und Sensoren",
+    "meta": {
+      "moodleId": 5843,
+      "tags": ["signal", "sensoren", "sss", "sig"]
+    }
+  },
+  {
+    "name": "AIN3 Betriebssysteme",
+    "meta": {
+      "moodleId": 6490,
+      "tags": ["besys"]
+    }
+  },
+  {
+    "name": "AIN3 Algorithmen und Datenstrukturen",
+    "meta": {
+      "moodleId": 4384,
+      "tags": ["algo"]
+    }
+  },
+  {
+    "name": "Homepage Algorithmen und Datenstrukturen",
+    "meta": {
+      "link": "https://www-home.htwg-konstanz.de/~bittel/ain_alda.html",
+      "tags": ["algo", "alda", "homepage"]
+    }
+  },
+  {
+    "name": "AIN3 Software Engineering",
+    "meta": {
+      "moodleId": 713,
+      "tags": ["se"]
+    }
+  },
+  {
     "name": "Stochastik ([AW]IN) B.Staehle",
     "meta": {
       "moodleId": 2711,
