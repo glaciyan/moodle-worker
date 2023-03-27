@@ -7,35 +7,35 @@
     }
   },
   {
-    "name": "AIN3 Theoretische Informatik",
+    "name": "Theoretische Informatik",
     "meta": {
       "moodleId": 2274,
       "tags": ["teinf"]
     }
   },
   {
-    "name": "AIN3 Datenbanksysteme",
+    "name": "Datenbanksysteme",
     "meta": {
       "moodleId": 6500,
       "tags": ["dsys", "database"]
     }
   },
   {
-    "name": "AIN3 Signale, Systeme und Sensoren",
+    "name": "Signale, Systeme und Sensoren",
     "meta": {
       "moodleId": 6560,
       "tags": ["signal", "sensoren", "sss", "sig"]
     }
   },
   {
-    "name": "AIN3 Betriebssysteme",
+    "name": "Betriebssysteme",
     "meta": {
       "moodleId": 6490,
       "tags": ["bsys"]
     }
   },
   {
-    "name": "AIN3 Algorithmen und Datenstrukturen",
+    "name": "Algorithmen und Datenstrukturen",
     "meta": {
       "moodleId": 4384,
       "tags": ["algo"]
@@ -49,7 +49,7 @@
     }
   },
   {
-    "name": "AIN3 Software Engineering",
+    "name": "Software Engineering",
     "meta": {
       "moodleId": 713,
       "tags": ["se"]
