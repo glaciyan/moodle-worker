@@ -10,7 +10,35 @@
     "name": "Theoretische Informatik",
     "meta": {
       "moodleId": 368,
-      "tags": ["teinf"]
+      "tags": ["theo", "teinf"]
+    }
+  },
+  {
+    "name": "Algorithmen und Datenstrukturen",
+    "meta": {
+      "moodleId": 442,
+      "tags": ["alda", "algo"]
+    }
+  },
+  {
+    "name": "Datenbanksysteme 1",
+    "meta": {
+      "moodleId": 809,
+      "tags": ["dbs"]
+    }
+  },
+  {
+    "name": "Rechnernetze",
+    "meta": {
+      "moodleId": 632,
+      "tags": []
+    }
+  },
+  {
+    "name": "Software Security",
+    "meta": {
+      "moodleId": 950,
+      "tags": []
     }
   }
 ]
