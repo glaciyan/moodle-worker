@@ -40,5 +40,12 @@
       "moodleId": 950,
       "tags": []
     }
+  },
+  {
+    "name": "Introduction to IT Security",
+    "meta": {
+      "moodleId": 501,
+      "tags": []
+    }
   }
 ]
