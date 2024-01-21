@@ -38,14 +38,14 @@
     "name": "Software Security",
     "meta": {
       "moodleId": 950,
-      "tags": []
+      "tags": ["sec", "softsec"]
     }
   },
   {
     "name": "Introduction to IT Security",
     "meta": {
       "moodleId": 501,
-      "tags": []
+      "tags": ["itsec"]
     }
   }
 ]
