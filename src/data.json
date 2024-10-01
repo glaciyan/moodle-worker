@@ -7,45 +7,31 @@
     }
   },
   {
-    "name": "Theoretische Informatik",
+    "name": "Digitale Systeme",
     "meta": {
-      "moodleId": 368,
-      "tags": ["theo", "teinf"]
+      "moodleId": 1979,
+      "tags": ["digi", "systeme"]
     }
   },
   {
-    "name": "Algorithmen und Datenstrukturen",
+    "name": "Ubiquitous Computing",
     "meta": {
-      "moodleId": 442,
-      "tags": ["alda", "algo"]
+      "moodleId": 2112,
+      "tags": ["ubiq", "comp"]
     }
   },
   {
-    "name": "Datenbanksysteme 1",
+    "name": "Lehrplan Semester 5",
     "meta": {
-      "moodleId": 809,
-      "tags": ["dbs"]
+      "link": "https://lsf.htwg-konstanz.de/qisserver/rds?state=wplan&act=stg&pool=stg&show=plan&P.vx=kurz&r_zuordabstgv.semvonint=5&r_zuordabstgv.sembisint=5&missing=allTerms&k_parallel.parallelid=&k_abstgv.abstgvnr=4511&r_zuordabstgv.phaseid=",
+      "tags": ["lehrplan", "stundenplan", "5"]
     }
   },
   {
-    "name": "Rechnernetze",
+    "name": "Lehrplan Semester 6",
     "meta": {
-      "moodleId": 632,
-      "tags": []
-    }
-  },
-  {
-    "name": "Software Security",
-    "meta": {
-      "moodleId": 950,
-      "tags": ["sec", "softsec"]
-    }
-  },
-  {
-    "name": "Introduction to IT Security",
-    "meta": {
-      "moodleId": 501,
-      "tags": ["itsec"]
+      "link": "https://lsf.htwg-konstanz.de/qisserver/rds?state=wplan&act=stg&pool=stg&show=plan&P.vx=kurz&r_zuordabstgv.semvonint=6&r_zuordabstgv.sembisint=6&missing=allTerms&k_parallel.parallelid=&k_abstgv.abstgvnr=4511&r_zuordabstgv.phaseid=",
+      "tags": ["lehrplan", "stundenplan", "6"]
     }
   }
 ]
