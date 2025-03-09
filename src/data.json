@@ -7,38 +7,38 @@
     }
   },
   {
-    "name": "AIN-PSS",
+    "name": "Verteilte Systeme",
     "meta": {
-      "moodleId": 814,
-      "tags": ["praktikum"]
+      "moodleId": 400,
+      "tags": []
     }
   },
   {
-    "name": "Digitale Systeme",
+    "name": "Mikroprozessorsysteme",
     "meta": {
-      "moodleId": 1979,
-      "tags": ["digi", "systeme"]
+      "moodleId": 1608,
+      "tags": []
     }
   },
   {
-    "name": "Ubiquitous Computing",
+    "name": "Embedded Systems",
     "meta": {
-      "moodleId": 2112,
-      "tags": ["ubiq", "comp"]
+      "moodleId": 0,
+      "tags": []
     }
   },
   {
-    "name": "Mobile Roboter",
+    "name": "Kommunikationstechnik",
     "meta": {
-      "moodleId": 1104,
-      "tags": ["robot", "mobile"]
+      "moodleId": 0,
+      "tags": []
     }
   },
   {
-    "name": "Lehrplan Semester 5",
+    "name": "Artificial Intelligence",
     "meta": {
-      "link": "https://lsf.htwg-konstanz.de/qisserver/rds?state=wplan&act=stg&pool=stg&show=plan&P.vx=kurz&r_zuordabstgv.semvonint=5&r_zuordabstgv.sembisint=5&missing=allTerms&k_parallel.parallelid=&k_abstgv.abstgvnr=4511&r_zuordabstgv.phaseid=",
-      "tags": ["lehrplan", "stundenplan", "5"]
+      "moodleId": 464,
+      "tags": []
     }
   },
   {
