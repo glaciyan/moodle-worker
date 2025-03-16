@@ -9,7 +9,14 @@
   {
     "name": "Verteilte Systeme",
     "meta": {
-      "moodleId": 400,
+      "moodleId": 500,
+      "tags": []
+    }
+  },
+  {
+    "name": "Kommunikationstechnik",
+    "meta": {
+      "moodleId": 1648,
       "tags": []
     }
   },
@@ -23,24 +30,23 @@
   {
     "name": "Embedded Systems",
     "meta": {
-      "moodleId": 0,
+      "moodleId": 2320,
       "tags": []
     }
   },
   {
-    "name": "Kommunikationstechnik",
+    "name": "Mobile Anwendungen",
     "meta": {
-      "moodleId": 0,
+      "moodleId": 1806,
       "tags": []
     }
   },
   {
-    "name": "Artificial Intelligence",
+    "name": "IoX Python Introduction",
     "meta": {
-      "moodleId": 464,
-      "tags": []
+      "moodleId": 367
     }
-  },
+  }
   {
     "name": "Lehrplan Semester 6",
     "meta": {
