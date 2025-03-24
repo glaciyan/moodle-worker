@@ -10,35 +10,35 @@
     "name": "Verteilte Systeme",
     "meta": {
       "moodleId": 500,
-      "tags": []
+      "tags": ["vsys"]
     }
   },
   {
     "name": "Kommunikationstechnik",
     "meta": {
       "moodleId": 1648,
-      "tags": []
+      "tags": ["com"]
     }
   },
   {
     "name": "Mikroprozessorsysteme",
     "meta": {
       "moodleId": 2359,
-      "tags": []
+      "tags": ["micro"]
     }
   },
   {
     "name": "Embedded Systems",
     "meta": {
       "moodleId": 2320,
-      "tags": []
+      "tags": ["embedded"]
     }
   },
   {
     "name": "Mobile Anwendungen",
     "meta": {
       "moodleId": 1806,
-      "tags": []
+      "tags": ["moan", "mobo"]
     }
   },
   {
