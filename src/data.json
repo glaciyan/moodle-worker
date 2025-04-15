@@ -42,12 +42,6 @@
     }
   },
   {
-    "name": "IoX Python Introduction",
-    "meta": {
-      "moodleId": 367
-    }
-  },
-  {
     "name": "Lehrplan Semester 6",
     "meta": {
       "link": "https://lsf.htwg-konstanz.de/qisserver/rds?state=wplan&act=stg&pool=stg&show=plan&P.vx=kurz&r_zuordabstgv.semvonint=6&r_zuordabstgv.sembisint=6&missing=allTerms&k_parallel.parallelid=&k_abstgv.abstgvnr=4511&r_zuordabstgv.phaseid=",
